@@ -1,0 +1,21 @@
+Sitio: Poke Api (https://pokeapi.co/api/v2)
+
+Caso 1
+
+●	Hacer un get a berry/1
+●	Verificar que el size sea 20
+●	Verificar que el soil_dryness sea 15
+●	Verificar que en firmness, el name sea soft.
+
+Caso 2
+
+●	Hacer un get a berry/2
+●	Verificar que en firmness, el name sea super-hard
+●	Verificar que el size sea mayor al del punto anterior
+●	Verificar que el soil_dryness sea igual al del punto anterior
+
+Caso 3
+
+●	Hacer un get a pikachu (https://pokeapi.co/api/v2/pokemon/pikachu/)
+●	Verificar que su experiencia base es mayor a 10 y menor a 1000
+●	Verificar que su tipo es “electric”
